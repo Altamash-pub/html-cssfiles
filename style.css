@@ -1,0 +1,50 @@
+body{
+    background-image: url(./source/newbackground.jpg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.head01{
+    text-align: center;
+    color: green ;
+}
+nav{
+     background-color: lightgreen;
+     width: 600px;
+     padding: 20px;
+     border-radius: 20px 40px;
+box-shadow: 0 0 50px;
+position: sticky;
+top: 0;
+}
+
+.abbr01{
+    padding: 40px;
+    color: white;
+}
+.abbr01:hover{
+    color: green;
+}
+figure{
+  display: inline-block;
+  padding: 40px;
+ border: 5px solid green;
+ width: 200px;
+ background-color: white;
+ box-shadow: 0 0 20px;
+  
+}
+.img01{
+    height: 300px;
+  width: 200px;
+ 
+}
+figcaption{
+    text-align: center;
+    color: green;
+    height: 30px;
+}
+marquee{
+    color: black;
+    background-color: lightsalmon ;
+    box-shadow: 0 0 30px;
+}
